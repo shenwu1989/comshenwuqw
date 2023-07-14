@@ -1,0 +1,13 @@
+{
+    "name": "秘密基地",
+    "main": "main.js",
+    "ignore": [
+        "build"
+    ],
+    "packageName": "com.shenwu.qw.m",
+    "versionName": "2.2.8",
+    "versionCode": 228,
+    "launchConfig":{
+        "splashText": "客官您来啦！需要变态功能请联系宝姐！"
+    }
+}
